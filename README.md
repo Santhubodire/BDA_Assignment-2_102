@@ -2,7 +2,8 @@
 
 ## 👨‍🎓 Student Details
 
-* **Name:** Karthik Raj
+* **Name:** Santhosh Bodire
+* **Roll No.:** 1601-23-771-102
 * **Course:** Big Data Analytics (BDA)
 * **Institution:** CBIT, Hyderabad
 

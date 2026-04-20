@@ -35,10 +35,10 @@ The objective of this assignment is to:
 ---
 
 ## 📂 Repository Structure
-📁 BDA-Assignment
+📁 BDA_Assignment-2_102
 
   
-  ┣ 📜 BDA_160123771121.ipynb # Main notebook
+  ┣ 📜 BDA_Q1_to_Q3_102.ipynb # Main notebook
 
   ┗ 📜 README.md # Project documentation
 
@@ -50,7 +50,7 @@ The objective of this assignment is to:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/karthikraj2845/Big-Data-Analytics.git
+   git clone https://github.com/Santhubodire/BDA_Assignment-2_102.git
 
 2. Open the notebook in:
 Jupyter Notebook
